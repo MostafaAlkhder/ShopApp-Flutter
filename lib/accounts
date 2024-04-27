@@ -1,0 +1,29 @@
+{
+    "status": true,
+    "message": "تم تسجيل الدخول بنجاح",
+    "data": {
+        "id": 59910,
+        "name": "mostafa alkhder",
+        "email": "mostafaalkhder@gamil.com",
+        "phone": "0934460899",
+        "image": "https://student.valuxapps.com/storage/uploads/users/DxT5QUkeWk_1698152628.jpeg",
+        "points": 0,
+        "credit": 0,
+        "token": "t7UlnM7cYNAgflTYRKEOZ3dld2udvztgRWDy7TfaxiXp7iiFmt2YdjJsroMWNftH3w9GEz"
+    }
+}
+
+
+
+{
+    "status": true,
+    "message": "تم التسجيل بنجاح",
+    "data": {
+        "name": "mostafa",
+        "phone": "09344608991",
+        "email": "mostafa899@gmail.com",
+        "id": 60090,
+        "image": "https://student.valuxapps.com/storage/uploads/users/UhvJBoDxU3_1698671680.jpeg",
+        "token": "eB6HmanC2L1prOcjtKFmVAJdkM5rK5bgO5qzWyusn79WsZ47inezjuHccS6CU6Rzg7Pgjm"
+    }
+}
